@@ -1,0 +1,43 @@
+.sidebar {
+    /* margin-top: 0px; */
+    width: 75px;
+    height: 1010px;
+    background-color: #278DF1;
+    align-items: center;
+    font-size: 25px;
+    color: white;
+  
+  }
+
+  #home{
+    margin-top: 400px;
+    padding-left: 27px;
+    padding-right: 21px;
+    padding-top: 7px;
+    padding-bottom:7px ;
+  }
+
+  #preview{
+    margin-top: 27px;
+    padding-left: 27px;
+    padding-right: 21px;
+    padding-top: 7px;
+    padding-bottom:7px ;
+  }
+
+  #list{
+    margin-top: 27px;
+    padding-left: 27px;
+    padding-right: 21px;
+    padding-top: 7px;
+    padding-bottom:7px ;
+
+  }
+  
+  
+  .active {
+    background-color: antiquewhite;
+    ; /* Change this to the desired background color */
+    color: rgb(0, 157, 219); /* Keep the icon color white */
+  }
+  
